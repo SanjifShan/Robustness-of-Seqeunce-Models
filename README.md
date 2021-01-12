@@ -19,20 +19,20 @@ making predictions of trends in financial time series data and predicting exopla
 light curve data from satellite missions.
 The aims of this project include:
 
-• Determining the robustness of sequence models in a deterministic and probabilistic
+1.  Determining the robustness of sequence models in a deterministic and probabilistic
 setting, investigating upper and lower bounds for adversarial robustness in the de1
 terministic case & identifying the probability of misclassification on the sphere of
 radius ρ for the probabilistic case.
 
-• Characterising the geometric properties of the decision boundary & loss surface of
+2.  Characterising the geometric properties of the decision boundary & loss surface of
 robust sequence models. It has been shown that decision boundaries which are
 less curved result in more robust models for image classification systems. We
 investigate if this holds for sequence models, providing theoretical justification.
 
-• Investigate the effect of Jacobian & Hessian regularisation on the robustness of
+3.  Investigate the effect of Jacobian & Hessian regularisation on the robustness of
 sequence models. If these regularisation techniques improve robustness, it would
 support the hypothesis that sequence models with less curved decision boundaries
 achieve greater robustness.
 
-• Develop a framework based on the theory of condition numbers in numerical analysis
+4.  Develop a framework based on the theory of condition numbers in numerical analysis
 and optimization to identify & characterise robustness.
