@@ -10,6 +10,7 @@ in misclassification when applied to every datapoint. This significant shortcomi
 doubt on the practicality of applying machine learning models to safety-critical systems.
 The consequence of a false negative in a medical diagnostic tool or a false prediction in a
 self-driving system could possibly result in the loss of a life.
+
 The robustness, or resilience of ML models to adversarial attack has been extensively
 studied in the context of image classification systems. This project aims to extend this
 work to sequence models trained on temporally variable or highly ordered data. Widely
@@ -17,6 +18,7 @@ used deep learning sequence models include recurrent neural networks (RNNs), Lon
 Term Memory networks (LSTMs) & transformers. Applications of these models include
 making predictions of trends in financial time series data and predicting exoplanets with
 light curve data from satellite missions.
+
 The aims of this project include:
 
 1.  Determining the robustness of sequence models in a deterministic and probabilistic
