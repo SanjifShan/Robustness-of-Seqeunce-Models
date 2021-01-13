@@ -22,8 +22,8 @@ light curve data from satellite missions.
 The aims of this project include:
 
 1.  Determining the robustness of sequence models in a deterministic and probabilistic
-setting, investigating upper and lower bounds for adversarial robustness in the de1
-terministic case & identifying the probability of misclassification on the sphere of
+setting, investigating upper and lower bounds for adversarial robustness in the deterministic
+case & identifying the probability of misclassification on the sphere of
 radius ρ for the probabilistic case.
 
 2.  Characterising the geometric properties of the decision boundary & loss surface of
