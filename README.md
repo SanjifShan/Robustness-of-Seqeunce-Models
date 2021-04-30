@@ -1,5 +1,6 @@
 # Robustness-of-Seqeunce-Models
 Investigating the Robustness of Sequence models in Deep Learning. Masters Thesis at Warwick 20/21 supervised by Martin Lotz with project partner Peter Fazekas.
+Peter and myself were sponsored by the Warwick Physcics department to present at the British Conference for Undergraduate Research (BCUR) 2021 on 13/04/21
 
 While the accuracy of ML models have improved for a variety of applications, the
 reliability of these models have been put into question. A classifier that predicts the
